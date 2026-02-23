@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AJJU Dangol
 
-**Junior Data Analyst** | SQL & Data Analysis Expert | Python | Power BI | Business Intelligence
+**Junior Data Analyst** | SQL & Data Analyst | Python | Power BI | Business Intelligence
 
 ---
 
