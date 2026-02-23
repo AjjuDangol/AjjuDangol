@@ -65,7 +65,7 @@ I'm a passionate junior data analyst with a strong foundation in **SQL, data ana
 | Qualification | Institution | Year |
 |---------------|------------|------|
 | **PG Diploma in Artificial Intelligence** | Georgian College | 2025 |
-| **PG Diploma in Big Data Analytics** | Georgian College | 2025 |
+| **PG Diploma in Big Data Analytics** | Georgian College | 2024 |
 | **BSc (Hons) in Computing** | Islington College | 2022 |
 
 ---
